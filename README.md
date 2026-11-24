@@ -1,2 +1,5 @@
-"# Meu Portifolio - Lourença Maria Vieira Santos"
-"25 anos - Estutande Engenharia da Computação" 
+"# Portifolio de Lourença Maria Vieira Santos, Habilidades"
+## Minhas Habilidades
+ - Comunicação
+ - Amante de Arduino
+ - Gestão de Software
