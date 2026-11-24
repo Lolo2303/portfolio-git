@@ -1,7 +1,7 @@
 
-# Meu Portifolio - Lourença Maria Vieira Santos
+# Meu Portfólio - Lourença Maria Vieira Santos
 25 anos - Amante de Literatura e Tecnologia
-## Meus projetos:
+## Meus Projetos
  - Semáforo Digital com Microcontrolador AVR Atmega328P
  - TCC na área de Engenharia de Software Análise Comparativa de Metodologias Ágeis em Ambiente Corporativo
 
